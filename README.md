@@ -1,0 +1,2 @@
+# guiDesignPython-tkinter
+MetalPartDefectDetectionControlPanel
